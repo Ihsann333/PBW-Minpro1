@@ -48,7 +48,7 @@ Di kanan:
 * Layout menggunakan Flexbox (kiri dan kanan sejajar)
 
 
-<img width="1917" height="983" alt="image" src="https://github.com/user-attachments/assets/e2a9c42f-e98f-4ff1-9a96-abf176cbf168" />
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/89ff1fdf-072d-4b3a-91d6-a079d459c990" />
 
 **3. Section About Me**
 
@@ -62,7 +62,7 @@ Layout 2 kolom:
 
 * Kanan: Paragraf deskripsi
 
-* Di bawah deskripsi ada skill tags
+* Di bawah deskripsi ada progress bar skill 
 
 
 <img width="1912" height="978" alt="image" src="https://github.com/user-attachments/assets/29b500a5-abdc-4839-9852-af6893123c59" />
