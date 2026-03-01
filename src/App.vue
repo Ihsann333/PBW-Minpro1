@@ -52,12 +52,64 @@
           saya lakukan menggunakan perangkat mobile.
         </p>
 
-        <div class="skills">
-          <span>Canva</span>
-          <span>Figma</span>
-          <span>CapCut</span>
-          <span>Alight Motion</span>
-        </div>
+<div class="skills">
+
+  <div class="skill-item">
+    <div class="skill-header">
+      <span>Canva</span>
+      <span>90%</span>
+    </div>
+    <div class="progress">
+      <div class="progress-bar" style="width: 90%"></div>
+    </div>
+    <p class="skill-desc">
+      Berpengalaman membuat desain konten media sosial, poster, dan presentasi 
+      dengan visual yang menarik dan konsisten.
+    </p>
+  </div>
+
+  <div class="skill-item">
+    <div class="skill-header">
+      <span>Figma</span>
+      <span>80%</span>
+    </div>
+    <div class="progress">
+      <div class="progress-bar" style="width: 80%"></div>
+    </div>
+    <p class="skill-desc">
+      Mampu merancang UI/UX website mulai dari wireframe hingga prototype 
+      interaktif yang user-friendly.
+    </p>
+  </div>
+
+  <div class="skill-item">
+    <div class="skill-header">
+      <span>CapCut</span>
+      <span>85%</span>
+    </div>
+    <div class="progress">
+      <div class="progress-bar" style="width: 85%"></div>
+    </div>
+    <p class="skill-desc">
+      Mengedit video kreatif untuk konten media sosial dengan transisi, 
+      efek, dan sinkronisasi audio yang dinamis.
+    </p>
+  </div>
+
+  <div class="skill-item">
+    <div class="skill-header">
+      <span>Alight Motion</span>
+      <span>75%</span>
+    </div>
+    <div class="progress">
+      <div class="progress-bar" style="width: 75%"></div>
+    </div>
+    <p class="skill-desc">
+      Membuat animasi teks dan motion graphic sederhana untuk meningkatkan 
+      kualitas visual konten video.
+    </p>
+  </div>
+</div>
 
       </div>
 

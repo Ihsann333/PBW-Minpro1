@@ -82,3 +82,43 @@ body{
   align-items:center;
   padding:15px;
 }
+
+.skills{
+  margin-top:30px;
+  display:flex;
+  flex-direction:column;
+  gap:25px;
+}
+
+.skill-item{
+  width:100%;
+}
+
+.skill-header{
+  display:flex;
+  justify-content:space-between;
+  font-weight:600;
+  margin-bottom:8px;
+}
+
+.progress{
+  width:100%;
+  height:10px;
+  background:#333;
+  border-radius:10px;
+  overflow:hidden;
+}
+
+.progress-bar{
+  height:100%;
+  background:#ff5f1f;
+  border-radius:10px;
+  transition:0.5s;
+}
+
+.skill-desc{
+  font-size:14px;
+  opacity:0.8;
+  margin-top:8px;
+  line-height:1.5;
+}
